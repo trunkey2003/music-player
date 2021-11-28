@@ -1243,7 +1243,7 @@ const app = {
      name: "Ghen Tuông",
      singer: "Captain ft. Tùa",
      path: `https://firebasestorage.googleapis.com/v0/b/trunkey-music-player.appspot.com/o/ghen-tuong.mp3?alt=media&token=cbbfb0db-0b29-4f65-b445-af6eeec9d98b`,
-     image: `https://firebasestorage.googleapis.com/v0/b/trunkey-music-player.appspot.com/o/hq720.png?alt=media&token=c1d60d29-511d-4102-80aa-b0056fc8f99f`
+     image: `https://firebasestorage.googleapis.com/v0/b/trunkey-music-player.appspot.com/o/hq720.png?alt=media&token=e82ebdd8-8fff-488d-adec-38b811034363`
    },
 
    // {
